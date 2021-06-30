@@ -2,9 +2,9 @@
 
 This page highlights some of the work I produced while conducting research at the University of Oulu.
 
-### pytextpipe
+### textpype
 
-[pytextpipe](https://github.com/M3SOulu/pytextpipe) is a (WIP) Python library for producing a pipeline/workflow for evaluating combinations of various ML classification algorithms, NLP preprocessing steps and data sampling techniques on different datasets.
+[textpype](https://github.com/M3SOulu/textpype) is a (WIP) Python library for producing a pipeline/workflow for evaluating combinations of various ML classification algorithms, NLP preprocessing steps and data sampling techniques on different datasets.
 It is partly based on a paper presented at [MSR 2021](https://arxiv.org/pdf/2103.13165.pdf).
 
 ### FinnishSentiment
